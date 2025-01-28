@@ -1,0 +1,5 @@
+# Ignore all directories
+*/
+
+# Allow directories ending with .srcs
+!*.srcs/
