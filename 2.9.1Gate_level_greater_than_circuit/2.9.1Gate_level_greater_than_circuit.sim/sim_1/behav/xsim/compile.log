@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/projects/verilog/fpga_prototyping_codes/2.9.1Gate_level_greater_than_circuit/2.9.1Gate_level_greater_than_circuit.srcs/sources_1/new/eq1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eq1
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/projects/verilog/fpga_prototyping_codes/2.9.1Gate_level_greater_than_circuit/2.9.1Gate_level_greater_than_circuit.srcs/sources_1/new/eq2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eq2
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/projects/verilog/fpga_prototyping_codes/2.9.1Gate_level_greater_than_circuit/2.9.1Gate_level_greater_than_circuit.srcs/sources_1/new/greater_than_2bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greater_than_2bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/projects/verilog/fpga_prototyping_codes/2.9.1Gate_level_greater_than_circuit/2.9.1Gate_level_greater_than_circuit.srcs/sources_1/new/greater_than_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greater_than_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/projects/verilog/fpga_prototyping_codes/2.9.1Gate_level_greater_than_circuit/2.9.1Gate_level_greater_than_circuit.srcs/sim_1/new/greater_than_4bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module greater_than_4bit_tb

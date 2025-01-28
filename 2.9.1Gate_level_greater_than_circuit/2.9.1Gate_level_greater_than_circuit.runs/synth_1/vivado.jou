@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Jan 28 11:59:49 2025
+# Process ID: 7412
+# Current directory: F:/projects/verilog/fpga_prototyping_codes/2.9.1Gate_level_greater_than_circuit/2.9.1Gate_level_greater_than_circuit.runs/synth_1
+# Command line: vivado.exe -log greater_than_4bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source greater_than_4bit.tcl
+# Log file: F:/projects/verilog/fpga_prototyping_codes/2.9.1Gate_level_greater_than_circuit/2.9.1Gate_level_greater_than_circuit.runs/synth_1/greater_than_4bit.vds
+# Journal file: F:/projects/verilog/fpga_prototyping_codes/2.9.1Gate_level_greater_than_circuit/2.9.1Gate_level_greater_than_circuit.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source greater_than_4bit.tcl -notrace
