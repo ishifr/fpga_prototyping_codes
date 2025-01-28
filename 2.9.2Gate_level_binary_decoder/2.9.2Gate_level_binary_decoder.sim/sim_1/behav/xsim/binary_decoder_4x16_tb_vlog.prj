@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../2.9.2Gate_level_binary_decoder.srcs/sources_1/new/binary_decoder_2x4.v" \
+"../../../../2.9.2Gate_level_binary_decoder.srcs/sources_1/new/binary_decoder_4x16.v" \
+"../../../../2.9.2Gate_level_binary_decoder.srcs/sim_1/new/binary_decoder_4x16_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
